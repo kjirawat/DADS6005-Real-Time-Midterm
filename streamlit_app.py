@@ -8,7 +8,7 @@ import seaborn as sns
 st.set_page_config(page_title="Jirawat Realtime Dashboard", layout="wide")
 
 # Dashboard Title
-st.title("Thanakrit Realtime Dashboard")
+st.title("Jirawat Realtime Dashboard")
 st.write("Real-time Pageview and User Activity Insights")
 
 # Function for connecting to Pinot
